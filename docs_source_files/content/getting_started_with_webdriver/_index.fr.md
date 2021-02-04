@@ -22,7 +22,7 @@ Selenium tire parti de drivers tierces lorsque c'est possible,
 mais fournit également ces propres drivers, maintenus par le projet,
 lorsque nécessaire.
 
-Le framework Selenium relie toutes ces pièces ensemnle via une interface
+Le framework Selenium relie toutes ces pièces ensemble via une interface
 user-friendly qui permet d'utiliser différents navigateurs de manière transparente,
 permettant ainsi l'automatisation cross-platform et cross-browser.
 
